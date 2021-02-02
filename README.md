@@ -2,7 +2,7 @@
 
 For this project, I did not use redux however on a large-scale application, I would definitely implement redux.
 Styled Components was used to style this app, but I did not go too deep with styling for this project.
-I hope you like what you see!
+I hope you like what you see! Please run npm i after cloning this repo and then npm start to run the app. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
